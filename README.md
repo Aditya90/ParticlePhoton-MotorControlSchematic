@@ -1,2 +1,3 @@
-# ParticlePhoton_MotorControlSchematic
-Motor control schematic
+# Readme
+
+Schematic for the motor control example
